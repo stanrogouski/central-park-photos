@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.container {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 60px;
+    
+    justify-items: center;
+    margin-bottom: 30px;
+
+}
+
+h1{
+    text-align: center;
+    background-color: lightgrey;
+    padding: 30px;
+    margin-bottom: 30px;
+}
