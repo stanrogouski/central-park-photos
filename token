@@ -1,0 +1,5 @@
+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
+
+
+
+git push https://gitlab-ci-token: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@gitlab.com/myuser/myrepo.git <branch_name>
