@@ -18,8 +18,8 @@ main.gallery {
     grid-gap: 1rem;
     grid-auto-flow: dense;
   }
-
   
+
   .gallery > .gallery__list > li > figure {
     height: 100%;
   }
